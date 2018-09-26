@@ -1,0 +1,14 @@
+/Users/gertjvr/Development/GameOfLife/GameOfLife/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/gertjvr/Development/GameOfLife/GameOfLife/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/gertjvr/Development/GameOfLife/GameOfLife/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/gertjvr/Development/GameOfLife/GameOfLife/bin/Debug/netcoreapp2.1/GameOfLife.deps.json
+/Users/gertjvr/Development/GameOfLife/GameOfLife/bin/Debug/netcoreapp2.1/GameOfLife.runtimeconfig.json
+/Users/gertjvr/Development/GameOfLife/GameOfLife/bin/Debug/netcoreapp2.1/GameOfLife.runtimeconfig.dev.json
+/Users/gertjvr/Development/GameOfLife/GameOfLife/bin/Debug/netcoreapp2.1/GameOfLife.dll
+/Users/gertjvr/Development/GameOfLife/GameOfLife/bin/Debug/netcoreapp2.1/GameOfLife.pdb
+/Users/gertjvr/Development/GameOfLife/GameOfLife/obj/Debug/netcoreapp2.1/GameOfLife.csprojAssemblyReference.cache
+/Users/gertjvr/Development/GameOfLife/GameOfLife/obj/Debug/netcoreapp2.1/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/gertjvr/Development/GameOfLife/GameOfLife/obj/Debug/netcoreapp2.1/GameOfLife.AssemblyInfoInputs.cache
+/Users/gertjvr/Development/GameOfLife/GameOfLife/obj/Debug/netcoreapp2.1/GameOfLife.AssemblyInfo.cs
+/Users/gertjvr/Development/GameOfLife/GameOfLife/obj/Debug/netcoreapp2.1/GameOfLife.dll
+/Users/gertjvr/Development/GameOfLife/GameOfLife/obj/Debug/netcoreapp2.1/GameOfLife.pdb
